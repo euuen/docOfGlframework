@@ -26,7 +26,8 @@ export default defineConfig({
       {
         text: '基础',
         items: [
-          { text: '创建一个三角形', link: '/base/triangle'}
+          { text: '创建一个三角形', link: '/base/triangle'},
+          { text: '移动你的相机', link: '/base/moveCam'}
         ]
       }
     ],
